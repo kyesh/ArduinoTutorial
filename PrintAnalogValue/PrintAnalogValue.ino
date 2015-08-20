@@ -1,8 +1,8 @@
+//Creates a Variable of type int named Analog0Value
+int Analog0Value;
+
 void setup() {
   // put your setup code here, to run once:
-
-  //Creates a Variable of type int named pin12Value
-  int pin12Value;
 
   // start serial port at 9600 bps:
   // Necessary whenever you want to use Serial communication
